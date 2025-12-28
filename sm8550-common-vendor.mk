@@ -1005,7 +1005,7 @@ PRODUCT_PACKAGES += \
     init.kernel.post_boot-kalama \
     init.kernel.post_boot \
     init.qcom.class_core \
-    init.qcom.post_boot \
+#    init.qcom.post_boot \
     init.qcom.sensors \
     init.qti.kernel \
     init.qti.media \
